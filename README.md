@@ -13,3 +13,5 @@ Dependencies:
 --pandas
 
 --numpy
+
+Many thanks to the developers for NLTK, sci-kit learn, numpy, and pandas. Also credit to Thomas Hughes for 
