@@ -14,4 +14,4 @@ Dependencies:
 
 --numpy
 
-Many thanks to the developers for NLTK, sci-kit learn, numpy, and pandas. Also credit to Thomas Hughes for 
+Many thanks to the developers for NLTK, sci-kit learn, numpy, and pandas. Also credit to Thomas Hughes for his tutorial on tf-ifd visualization for text analysis (https://github.com/tmhughes81/dap). 
